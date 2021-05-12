@@ -1,4 +1,4 @@
-## Market Owl ![Image](src)
+## Market Owl ![Image](MarketOwl_Logo.jpeg)
 
 You can use the [editor on GitHub](https://github.com/coolkingsingh97/MarketOwl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
